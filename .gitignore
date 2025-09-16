@@ -7,3 +7,6 @@ bin/*
 
 .kitchen/
 .kitchen.local.yml
+
+__pycache__/
+.pytest_cache/
